@@ -5,4 +5,4 @@ Reference of DDPG code: https://github.com/louisnino/RLcode
 .hdf5 files are DDPG model networks  
 rl-smc.xlsx is record of training and testing  
 .ipynb is the source code  
-Paper submitted to MPE under review
+<https://doi.org/10.1155/2022/8980664>
